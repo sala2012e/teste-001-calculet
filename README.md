@@ -1,6 +1,6 @@
 # teste-001-calculet
-un html de algoritme pour les math 
- Algorithme Calculatrice - Numéro 001 Voleur
+un html   de algoritme pour les math 
+ Algorithme Calculatrice - Numéro 001 salah
 # Ce programme effectue des opérations mathématiques de base
 
 def calculatrice(question):
@@ -27,4 +27,5 @@ if __name__ == "__main__":
     print(calculatrice("10 - 2"))     # 8.0
     print(calculatrice("4 * 2.5"))    # 10.0
     print(calculatrice("9 / 3"))      # 3.0
-    print(calculatrice("Bonjour"))    # Je ne suis pas fait pour ça
+    print(calculatrice("il est quelle heure"))    # Je ne suis pas fait pour ça
+    print(calculatrice(-12 * -7))      #+5.0
